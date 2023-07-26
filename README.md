@@ -120,9 +120,9 @@ Here are some ideas to get you started:
 </table>
 
 ---
-<a href="https://github.com/brogrammer07" target="_blank">
+<-- <a href="https://github.com/brogrammer07" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=brogrammer07&show_icons=true&theme=radical" />
-</a>
+</a> -->
 <a href="https://github.com/brogrammer07" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brogrammer07&show_icons=true&theme=radical&hide_langs_below=0" />
 </a>
