@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## *Skill Set*
 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -37,13 +38,14 @@ Here are some ideas to get you started:
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
+
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -90,9 +92,10 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
@@ -108,8 +111,8 @@ Here are some ideas to get you started:
       <br>VsCode
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
