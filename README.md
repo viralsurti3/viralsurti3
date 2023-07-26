@@ -118,3 +118,14 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+---
+<a href="https://github.com/brogrammer07" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=brogrammer07&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/brogrammer07" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brogrammer07&show_icons=true&theme=radical&hide_langs_below=0" />
+</a>
+
+[linkedin]: https://www.linkedin.com/in/tushar-tomar-882708213
+[upwork]: https://www.upwork.com/freelancers/viralsurti
